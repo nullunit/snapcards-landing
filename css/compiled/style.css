@@ -2,7 +2,7 @@
 /* Shadows */
 /*@mixin big-shadow { box-shadow: 0 0 30px 0 rgba(0, 0, 0, 0.1); }*/
 /* Fonts */
-@import url("https://fonts.googleapis.com/css?family=Roboto:300,300i,400,700,700i");
+@import url("https://fonts.googleapis.com/css?family=Nunito:300,400,700");
 /* Animation */
 /*
 @mixin transition ($property) {
@@ -28,7 +28,7 @@ html, body {
 body {
   margin: 0;
   padding: 0;
-  font-family: 'Roboto', helvetica, arial, sans-serif;
+  font-family: 'Nunito', helvetica, arial, sans-serif;
   line-height: 1.6;
   color: #2B292D; }
 
@@ -80,7 +80,7 @@ h1, h2, h3, h4, h5, h6, a, p, span, button, ul, li {
   color: inherit; }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: 'Roboto', helvetica, arial, sans-serif;
+  font-family: 'Nunito', helvetica, arial, sans-serif;
   font-weight: 700;
   line-height: 1.3; }
 
