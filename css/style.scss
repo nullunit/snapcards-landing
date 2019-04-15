@@ -159,7 +159,7 @@ header {
   background-color: rgba(255,255,255,0.9);
   display: flex;
   justify-content: space-between;
-  padding: 24px 32px;
+  padding: 24px 16px;
   border-bottom: 1px solid $color-lightgrey;
   backdrop-filter: blur(10px);
   -webkit-backdrop-filter: blur(10px);
@@ -250,6 +250,7 @@ footer {
 
   header {
       position: relative;
+      padding: 24px 32px;
       nav {
           .link-button { display: block; }
       }
